@@ -1,2 +1,2 @@
 # ChatNU
-This is not what you think this is
+This is not what you think it is
